@@ -4,3 +4,8 @@ vserver
       开发环境netbeans，linux
       
       http://www.echocool.net/findme
+
+参考文档
+====================
+* [fcgi4j](https://github.com/Happyr/fcgi4j)
+* [jfastcgi](https://github.com/jFastCGI/jfastcgi)
